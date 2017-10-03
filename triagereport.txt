@@ -1,0 +1,2140 @@
+---------------
+-- MALICIOUS --
+---------------
+cicimfkkbejhggfjaabggafffgdnjgjp_extension_3_1.crx
+	4.56066445217e+18 	connectionstrenth.com
+	394.887138991 	a.pnamic.com
+	28.2219487592 	eluxer.net
+	4.48168907034 	rules.similardeals.net
+	1.16183424273 	code.jquery.com
+jbbinbekahoemblcdkfoabnndmclhokb_extension_1_1_7.crx
+	2.7610023693e+13 	woopages.woololo.com
+	2.7610023693e+13 	analytics.odesystem.com
+ccaokncpmmjiakalbcfdbfmpcaiddjdn_extension_0_1_2.crx
+	3.19114212001e+12 	assets.genius.com
+	3.19114212001e+12 	genius.com
+	8067869.4765 	api.mixpanel.com
+	613416.849923 	ping.chartbeat.net
+	11843.0917277 	www.google-analytics.com
+bhldmkghjkldhclddpjebfjpaijaajmm_extension_1_0_6.crx
+	3.92459820195e+11 	hades.srvtrck.com
+	3.92459820195e+11 	i.srvtrck.com
+	29364587.5145 	imgsrv.io
+	4432.85887882 	d2p5uuu8vyzvbv.cloudfront.net
+	53.7637796643 	r.srvtrck.com
+ahahiebmkkjibpbgkgmjfaiffmkkoelp_extension_1_0_7.crx
+	493138191.485 	i.srvtrck.com
+	493138191.485 	hades.srvtrck.com
+bpoadpcobdbakpgkgpfhlggfapdkiijm_extension_2_0_9.crx
+	232290662.253 	insights.hotjar.com
+	1837102.20581 	cdn.livechatinc.com
+	14.0174081995 	s3.amazonaws.com
+	6.53256716481 	ws1.hotjar.com
+	1.35825393017 	www.googleadservices.com
+elhghcmhkfmlblkalbinfikgcfjngmog_extension_2_0_1.crx
+	15030619.824 	hades.srvtrck.com
+	15030619.824 	i.srvtrck.com
+	1.09998880227 	d323drta3nak2g.cloudfront.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dinfgdogaikebikpffdeiagjpbobkdfd_extension_2_0_1.crx
+	14744784.7212 	hades.srvtrck.com
+	14744784.7212 	i.srvtrck.com
+	1.09998880227 	d323drta3nak2g.cloudfront.net
+	1.08806403239 	dmp.adform.net
+	1.0 	chromium-i18n.appspot.com
+aeickjffpjecdelpamfcoiapojdlpkbn_extension_2_0_1.crx
+	14356308.2087 	hades.srvtrck.com
+	14356308.2087 	i.srvtrck.com
+	1.09998880227 	d323drta3nak2g.cloudfront.net
+	1.000100005 	dmp.adform.net
+	1.000100005 	www.google-analytics.com
+kcecdfakihcbodoepmbieononfdlojao_extension_2_0_1.crx
+	13604347.9253 	hades.srvtrck.com
+	13604347.9253 	i.srvtrck.com
+	1.34985880758 	d323drta3nak2g.cloudfront.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	stats.g.doubleclick.net
+kffboacboeheholoedaiedcnefcapoaj_extension_2_0_1.crx
+	13563596.0399 	hades.srvtrck.com
+	13563596.0399 	i.srvtrck.com
+	1.09998880227 	d323drta3nak2g.cloudfront.net
+	1.000100005 	dmp.adform.net
+	1.0 	chromium-i18n.appspot.com
+kbpdjokiifeoljkncpfogdmkennemaik_extension_1_0_0_2.crx
+	13333630.3578 	s1585.analyticstats.com
+	13333630.3578 	s585.analyticstats.com
+	13333630.3578 	lb.analyticstats.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	notification.adblockplus.org
+acjcbplodpbobhhldcnldfncadnglgmb_extension_2_0_1.crx
+	13316307.9004 	hades.srvtrck.com
+	13316307.9004 	i.srvtrck.com
+	1.09998880227 	d323drta3nak2g.cloudfront.net
+	1.000100005 	stats.g.doubleclick.net
+	1.000100005 	www.google-analytics.com
+miacoaheofddacbpdbelajdhcdibflfa_extension_0_1_4_8.crx
+	2513281.93288 	track1.aniview.com
+	2478836.85986 	tag-st.contextweb.com
+	2478836.85986 	bid.contextweb.com
+	535.017790706 	aniview.hs.llnwd.net
+	2.17124340251 	cdn.cdnvideofiles.com
+eaokoolfbekdmplgcidgbpncgaffciak_extension_1_6.crx
+	292084.960633 	imgsws.com
+odpinpbbiiokfhbaboknoiojfbhfhdog_extension_1_5.crx
+	115462.375197 	metricspot.com
+bhmmomiinigofkjcapegjjndpbikblnp_extension_3_2_22.crx
+	61598.9435985 	api.mywot.com
+	1.00752819544 	cdn-cf.mywot.net
+	1.00090040512 	s.ytimg.com
+	1.00090040512 	www.youtube.com
+	1.00090040512 	www.google-analytics.com
+ekjplgnaohhplpanhedpaojdohamffjh_extension_1_0_31.crx
+	43582.0217885 	api.similarweb.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	lb.similarsites.com
+licjnkifamhpbaefhdpacpmihicfbomb_extension_2_2_0_11.crx
+	32699.0073449 	report-zt.1rx.io
+	8126.61697739 	www.google-analytics.com
+ikdcmofdigiabbbnkcplpnipjeegdcbm_extension_1_0_15.crx
+	28276.8859776 	api.diffbot.com
+imcbnnnoghiihopefblgehihofbfbmei_extension_2_0_6_11.crx
+	18440.4149579 	redirect.desprotetor.com.br
+	1.17715439924 	www.google-analytics.com
+	1.11493934017 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	desprotetor.com.br
+gkbhgdhhefdphpikedbinecandoigdel_extension_3_1_0.crx
+	13148.9869945 	www.google-analytics.com
+	1.16206663282 	stats.g.doubleclick.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ahdfllkggodkgljbkdigcdngfiecgmfe_extension_2_0_5.crx
+	7405.66109828 	technoportal.ua
+eldiihlcidbmcjnomalgoabdfgbnogok_extension_1_1.crx
+	1708.20774925 	up.ooo
+	777.823784149 	counter.yadro.ru
+hjgoljmnaepbdpeadpciimeapgjadenc_extension_1_21.crx
+	1254.00787365 	www.protopage.com
+	7.45436673794 	images.protopage.com
+	1.85651300551 	stats.g.doubleclick.net
+	1.36383420303 	ajax.googleapis.com
+	1.27379419282 	www.google-analytics.com
+ifnaljaekfelbjfhpobnaajcchjmchdo_extension_0_1_4.crx
+	561.83038596 	master-ads.men
+	561.83038596 	b.master-ads.men
+	428.418276545 	track10.ru
+	21.5699253593 	tdsrmbl.net
+	8.30535095126 	sb-ssl.google.com
+dodoccglpgboionbnphmdeljlfghkdid_extension_2_1.crx
+	544.789782462 	counter.yadro.ru
+	403.428793493 	www.dolka.ru
+gomekmidlodglbbmalcneegieacbdmki_extension_12_0_199.crx
+	492.601238552 	uib.ff.avast.com
+	492.601238552 	ui.ff.avast.com
+	1.17421518879 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pbinilkmkdpcpnfmecnehdgecpcbfhep_extension_1_0.crx
+	413.228207133 	www.wermz.com
+bhbcbhpenkmpgbjgaleflgfmelhjlcla_extension_1_3_5.crx
+	404.64089712 	vk.com
+	1.1448801969 	csi.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	accounts.google.com
+	1.0 	apis.google.com
+daocgoilgdmkpilllpkjbaankampnbmj_extension_6_5.crx
+	404.236458475 	cdn.chrome-lib.org
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kighofmokniilkbmlpapdlheiecbmccg_extension_1_0.crx
+	403.792042845 	www.google-analytics.com
+	403.792042845 	apis.google.com
+	1.00150112556 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bdhbagplpkkoeifmpmpdaieomnggppmo_extension_0_1.crx
+	403.428793493 	www.facebook.com
+ilplgkffabihgbaidmhnhdfaoagddccn_extension_1_1_2.crx
+	403.428793493 	net.ootil.fr
+	4.34358480889 	bam.nr-data.net
+	1.16183424273 	js-agent.newrelic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+cglckinhknppgcgknbpifgcahjblnoka_extension_1_2.crx
+	403.428793493 	sgext.herokuapp.com
+mmeegmcppphbcahchgiepmkehkcbfijg_extension_1_2_1.crx
+	403.348115802 	rank.trellian.com
+	2.63979166692 	siteanalytics.compete.com
+afaphehgnnfgnonfhemlohjpcliogknp_extension_2_0_2.crx
+	403.348115802 	pingtcss.qq.com
+	20.0855369232 	a1.lmaq.cn
+adlogjmkkcancjpododcnjndnmkooghi_extension_1_0.crx
+	380.924045649 	shaaaaaaaaaaaaa.com
+flnpifehdjkdpinkkcbjidfcallfbkim_extension_0_1_12.crx
+	319.290070014 	maps.googleapis.com
+	20.0895544323 	csi.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+cjdjjcogohelcimjlngmoeeaadjlkjai_extension_1_0_0.crx
+	298.867400967 	adk.start-up-fast.com
+dpdmolbociagblhlkopalkepebeoifka_extension_0_21_22.crx
+	227.306652973 	www.youtube.com
+	227.306652973 	i.ytimg.com
+	227.306652973 	www.google-analytics.com
+	4.12637789846 	stats.g.doubleclick.net
+	1.08556436084 	www.google.com
+necpbmbhhdiplmfhmjicabdeighkndkn_extension_5_0_4.crx
+	181.762338261 	api.similarweb.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.966281576677 	lb.similarsites.com
+gmfflfmdcdecdonfogdofmomfhiabaeg_extension_1_2_5.crx
+	132.581824736 	www.googleapis.com
+egiifommaieidjkjgjkcpkmpdnpeecln_extension_1_5_2_7.crx
+	119.677425205 	www.policeweb.net
+	9.73959952228 	eu2.policeweb.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.eu1.policeweb.net
+	1.0 	localhost
+gmnmmmpindkchiaojfibmagdhdhbhbck_extension_1_0_1.crx
+	53.7584035552 	www.happyhey.com
+	53.7584035552 	startjoe.com
+	1.2340482189 	www.google.com
+	1.04226892975 	www.gstatic.com
+	1.04226892975 	ssl.gstatic.com
+onidcjfimideopiecibkenlependfjhf_extension_1_1.crx
+	32.6224271099 	zeromov.com
+	1.0 	whos.amung.us
+kfjkehmceppcpjoaoegdmffmkdhiegmc_extension_2_0_2.crx
+	31.4028922957 	api.pinterest.com
+gidhppoakegddkkpmgoejeadomghnkie_extension_0_13.crx
+	30.3835091787 	api.pinterest.com
+	19.3811316998 	www.xing-share.com
+	19.046816981 	graph.facebook.com
+	19.0087614153 	www.linkedin.com
+	16.42328262 	plusone.google.com
+gcenmccakhemepfpogciahmlbgjpmbok_extension_2_3.crx
+	24.8485648908 	sieuanhhung.com
+	20.0634549799 	www.google-analytics.com
+hbepadcdhpahlikldbochnhfleejiokp_extension_0_19_7_1.crx
+	24.0227188179 	api.cloudacl.com
+hbjmlpadohhdnckadnjfjipdlipacomo_extension_4_9_3.crx
+	23.1177333384 	maps.googleapis.com
+	15.2472628241 	www.googleapis.com
+	1.91420041963 	promevogscholar.appspot.com
+	1.83271779681 	talkgadget.google.com
+	1.83271779681 	apis.google.com
+ibondkbfbabpofoddaofggfnpcldmafn_extension_1_2_1.crx
+	22.2780079215 	www.winokia.org
+	20.0855369232 	www.hao123.com
+	1.000100005 	www.google-analytics.com
+	1.000100005 	apis.google.com
+	1.0 	www.gstatic.com
+mklbhckkgddhlcdagmobdmnadpjokkkn_extension_2_2_37.crx
+	21.2594180598 	usage.trackjs.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	api.getguru.com
+adikhbfjdbjkhelbdnffogkobkekkkej_extension_1_4_62.crx
+	20.9953293273 	couponzila.com
+	20.9953293273 	flipshope.com
+	20.9953293273 	ask.flipshope.com
+	5.84449387458 	youtubei.youtube.com
+	2.31938021203 	ad30.ad-srv.net
+jikhbokinakhjbhoifafpbaemffhomjl_extension_1_7.crx
+	20.3931691665 	whos.amung.us
+	20.248890461 	widgets.amung.us
+ampfabjhdfinfhdekjdmgflefglnfhja_extension_0_3_5.crx
+	20.2387685464 	twitter.com
+	1.0 	www.google.com
+	1.0 	ocsp.digicert.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+ckkeaccoegfpigjcpnfgkopbgbcabomn_extension_1_3.crx
+	20.0915634882 	toolbarqueries.google.com
+abchpppcldemnoihgbnodlbdbnibcjan_extension_1_6.crx
+	20.0855369232 	ancient-ravine-35826.herokuapp.com
+	1.0 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+obnhnikggipeehpmpgchodnhhjhjmefp_extension_1_1_2.crx
+	20.0855369232 	aferon.com
+	1.0 	apis.google.com
+	1.0 	crt.comodoca.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+hjpahjhcglfdopbholajmhpamgblhjhg_extension_3_3_6.crx
+	20.0855369232 	highly-anon.com
+	1.0 	www.highly.co
+	1.0 	s3-us-west-1.amazonaws.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+kbmligehjhghebleanjcmenomghmcohn_extension_2_0.crx
+	20.0855369232 	ballloon.com
+	1.12423184725 	amanda.tnctrx.com
+	1.0149100623 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	ssl.gstatic.com
+cikbiigmbicdfpfkjgjjeiongjdhnikh_extension_2_3_4_193.crx
+	20.0855369232 	curiyo.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hgllihgjapmdpikmjlkfajmpdifbphbh_extension_1_2.crx
+	20.0855369232 	moz.com
+	20.0855369232 	rank.trellian.com
+gfmemodglnmjkifanlmehaefadodpbek_extension_2_0_9.crx
+	20.0855369232 	vzakupke.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.865022293111 	apis.google.com
+	0.838366435676 	www.gstatic.com
+nlpchhogpnefaehmaebefgmafjejhjop_extension_1_0_2.crx
+	20.0855369232 	aferon.com
+	1.0 	crt.comodoca.com
+	1.0 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+adecfhccdknoobplgempjhbojlbpahhn_extension_1_4_3.crx
+	20.0795121659 	toolbarqueries.google.com
+	18.9347716196 	srank.seznam.cz
+gdcinojijbkplpmobnmemigcmjnlpgkl_extension_0_13.crx
+	20.0795121659 	toolbarqueries.google.com
+gpaghdfobahiicbgkdlmcfmphnhagkci_extension_0_0_0_38.crx
+	20.0574368461 	www.mallforafrica.com
+	20.0574368461 	checkout.mallforafrica.com
+	1.39305614628 	slimages.macysassets.com
+	1.38541536887 	store.storeimages.cdn-apple.com
+	1.23145943681 	static.zara.net
+fofopghccngcjemeachhdokkooklphgi_extension_15_10_7.crx
+	19.1614414123 	www.flvcd.com
+nmaonghoefpmlfgaknnboiekjhfpmajh_extension_4_0_24.crx
+	17.6776300274 	ws.inspectlet.com
+	1.06088132357 	hn.inspectlet.com
+	1.01470710059 	checkout.stripe.com
+	1.00160128068 	bam.nr-data.net
+	1.00040008001 	www.facebook.com
+mpioiijlnmnhfbphhafnmilihogfbijk_extension_13_4_0.crx
+	17.1809291787 	usage.trackjs.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ejgfoklefkbjadjcgjmnhfbdfjolojnn_extension_0_19_7_1.crx
+	16.2728813267 	api.cloudacl.com
+llihccomjnidgdibbpciaajkednnglpm_extension_2_22.crx
+	14.0230162843 	googleads.g.doubleclick.net
+	2.33030695676 	pagead2.googlesyndication.com
+	1.99311750829 	p4-hbpj5vfwugs3a-cv4msppjsrburgfp-if-v6exp3-v4.metric.gstatic.com
+	1.53495336581 	www.gstatic.com
+	1.36451629064 	googleads4.g.doubleclick.net
+dikgikdkdjcnbchcnlmkickpomiecela_extension_0_1_4_9.crx
+	7.88056813799 	googleads.g.doubleclick.net
+	6.53844912175 	tpc.googlesyndication.com
+	6.53844912175 	lh3.googleusercontent.com
+	4.85107339976 	3.freeaddon.com
+	4.85107339976 	1.freeaddon.com
+dgkhjjcoidmkfegigfdedmafpfemccpk_extension_7_7.crx
+	5.67857317732 	www.instagram.com
+	3.40586859142 	graph.instagram.com
+	1.00752819544 	check.fairsharelabs.com
+	1.00090040512 	connect.facebook.net
+	1.00090040512 	staticxx.facebook.com
+baiijchoofkpinpndjmneannfogafjcg_extension_0_0_1.crx
+	5.20697982718 	api.catstat.ru
+dlahcjmefibiedeecoegjilekaebchhl_extension_3_3_0.crx
+	5.16910727743 	pagead2.googlesyndication.com
+	1.48245574523 	googleads.g.doubleclick.net
+	1.28428224745 	www.google.com
+	1.12445671611 	apis.google.com
+	1.01531610753 	www.gstatic.com
+djllchijmdodbcjlgdjjmomeechmolfc_extension_4_2_2.crx
+	4.57039667079 	cm.g.doubleclick.net
+	3.71359347693 	googleads.g.doubleclick.net
+	1.26175044636 	code.jquery.com
+	1.16672420829 	www.google-analytics.com
+	1.16672420829 	chrome.google.com
+jbckknmhjbidbilcinjpllehfjeggcch_extension_2_44.crx
+	4.21605560418 	s.auto.drom.ru
+	1.97308833903 	static.baza.farpost.ru
+	1.04759807907 	www.drom.ru
+	1.03045453395 	miass.drom.ru
+	1.03045453395 	ekaterinburg.drom.ru
+ajkomeiemllejmopbbjjngpmmikfedad_extension_1_1_3.crx
+	3.89035339287 	toolbarqueries.google.com
+	1.35472705687 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+bboalniaekhennojedffbbjlokcpbjgn_extension_4_0_21.crx
+	3.74454457214 	scontent.xx.fbcdn.net
+	3.64515905137 	banners.webmasterplan.com
+	3.00626967636 	ad36.ad-srv.net
+	2.89736006505 	fcmatch.youtube.com
+	2.89736006505 	fcmatch.google.com
+fmmfnoikodocoelbimkedjdiaoejbddd_extension_1_59.crx
+	3.45699598663 	googleads.g.doubleclick.net
+	1.01562074806 	tpc.googlesyndication.com
+	1.00280392366 	www.gstatic.com
+	1.00280392366 	ssl.gstatic.com
+	1.00280392366 	fonts.gstatic.com
+ngoeookbfpbhhmhaidcejfbfpgalaafc_extension_1_1_3.crx
+	2.29263084783 	pagead2.googlesyndication.com
+	1.41835819217 	fonts.googleapis.com
+	1.40354334521 	fonts.gstatic.com
+	1.07347387311 	www.google.com
+	1.05738618535 	www.gstatic.com
+ahnkihgegokdpeepplkdlpecpongejkl_extension_1_3_6.crx
+	2.25691762589 	www.instagram.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mbacbcfdfaapbcnlnbmciiaakomhkbkb_extension_2_1_156.crx
+	2.08903032712 	youtubei.youtube.com
+	1.12738410753 	api3.friproxy0.eu
+	1.10241144156 	fri-gate.org
+	1.0 	api3.friproxy.biz
+	1.0 	api3.friproxy0.biz
+pmncamalnkoafdfdmojmhanhngjaakcb_extension_2_3_10.crx
+	2.08006678215 	itssimple.com.br
+	1.0 	cert.int-x3.letsencrypt.org
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	www.gstatic.com
+bdfcnmeidppjeaggnmidamkiddifkdib_extension_0_59.crx
+	2.03317782484 	cdn.optimizely.com
+	1.28171624981 	googleads.g.doubleclick.net
+	1.12513159258 	cm.g.doubleclick.net
+	1.10539197436 	formswift.com
+	1.006621828 	48120048.log.optimizely.com
+hmlcjjclebjnfohgmgikjfnbmfkigocc_extension_0_1_11.crx
+	2.02020703755 	web.facebook.com
+	1.36056492564 	www.google.com
+	1.20285752874 	fonts.googleapis.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+bcaiiknamimeojkofhidnkhipnjfhdpf_extension_0_1_4_9.crx
+	1.97052499072 	p4-hf4j3f2vqljiu-rzxckgmazmgi2233-979344-s1-v6exp3-v4.metric.gstatic.com
+	1.97052499072 	p4-hf4j3f2vqljiu-rzxckgmazmgi2233-if-v6exp3-v4.metric.gstatic.com
+	1.77979822298 	chrome.google.com
+	1.54960490742 	apis.google.com
+	1.54960490742 	www.google-analytics.com
+meaanhhbdanomagjkjleigjfiamjhomi_extension_1_15.crx
+	1.94429608201 	dgx1sum9mog2y.cloudfront.net
+	1.0 	www.facebook.com
+	1.0 	ssl.google-analytics.com
+	1.0 	static.xx.fbcdn.net
+	1.0 	platform.twitter.com
+lkdiimaiohgpacfbgedcipmgigppaofn_extension_2_16.crx
+	1.93595355813 	dgx1sum9mog2y.cloudfront.net
+	1.000100005 	www.facebook.com
+	1.0 	platform.twitter.com
+	1.0 	assets.customer.io
+	1.0 	accounts.google.com
+nmcbkeknpdigcehgkfhcgmjcffffcnag_extension_0_2.crx
+	1.69502925454 	server.trustnav.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kmdfbacgombndnllogoijhnggalgmkon_extension_3_42.crx
+	1.6271011566 	plugin.myip.ms
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hmanckoiohnlgdommlcckcflkmllobgj_extension_7_4_5.crx
+	1.59488239504 	fonts.googleapis.com
+	1.40214050341 	fonts.gstatic.com
+	1.17362822795 	tpc.googlesyndication.com
+	1.17362822795 	lh3.googleusercontent.com
+	1.06130576098 	ssl.gstatic.com
+dpjkpdelbaahkeeoeppmgkbliipjcnpm_extension_38_0_11.crx
+	1.56831218549 	fonts.googleapis.com
+	1.0 	fonts.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.gstatic.com
+bjkkgiokpelbekeldjbjfklkjhfdbjgk_extension_3_1_6.crx
+	1.50455925276 	www.google-analytics.com
+	1.11493934017 	ssl.google-analytics.com
+	1.10340405847 	api.ipify.org
+	1.0 	freegeoip.net
+	1.0 	chromium-i18n.appspot.com
+pkfjcehoipcdbiilobhcblbkmelocaka_extension_0_1_4_9.crx
+	1.4765377661 	tpc.googlesyndication.com
+	1.4765377661 	lh3.googleusercontent.com
+	1.17609543689 	7.freeaddon.com
+	1.17609543689 	1.freeaddon.com
+	1.17609543689 	freeaddon.com
+oeehiifcaeengdofhogmkblhkmpephcj_extension_6_0_49.crx
+	1.46330854699 	www.gstatic.com
+	1.46330854699 	ssl.gstatic.com
+	1.23330801205 	www.google.com
+	1.08058223246 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+ogcgkffhplmphkaahpmffcafajaocjbd_extension_2_30_9.crx
+	1.43203999841 	zenhub.com
+	1.05833826129 	assets-cdn.github.com
+	1.05833826129 	avatars1.githubusercontent.com
+	1.03293059492 	api.github.com
+	1.0 	api.mixpanel.com
+bkijljdgagpjfhikcahegclahhlmijch_extension_1_1_0_1.crx
+	1.40635324086 	ps8.pubnub.com
+	1.0 	ps17.pubnub.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.880293415834 	www.google-analytics.com
+bebalkdfejapnfbngpmhchkboajaofen_extension_1_9_2_23.crx
+	1.39027281824 	cdn3.patreon.com
+	1.31061959673 	googleads.g.doubleclick.net
+	1.22397039903 	stats.g.doubleclick.net
+	1.07465534406 	bid.g.doubleclick.net
+	1.06098741701 	connect.facebook.net
+ejjjniaenghhbffhplhdcipdgidbajdp_extension_4_18_0.crx
+	1.36315245638 	fonts.gstatic.com
+	1.26478228418 	api.mixpanel.com
+	1.03862736495 	sr.symcd.com
+	1.000300045 	www.google-analytics.com
+	1.00020002 	stats.g.doubleclick.net
+kmcomcgcopagkhcbmcmcfhpcmdolfijg_extension_2_1_3.crx
+	1.35893322695 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+ooipkpcchkfflkfdjeadgcnnnoliholb_extension_4_0_3_1.crx
+	1.35689635514 	js.hs-analytics.net
+	1.01897783267 	tags.bluekai.com
+	1.01480857637 	a.tribalfusion.com
+	1.01035322759 	images-na.ssl-images-amazon.com
+	1.00180162097 	cdnx.tribalfusion.com
+kfgmnlgjmofpiicpgohgfpeabgpmhjdp_extension_2_2_2.crx
+	1.35486253635 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15592397209 	www.google-analytics.com
+	1.15592397209 	apis.google.com
+nabjlccebfffbgmmoadelclcoaflbhnn_extension_0_1_1.crx
+	1.35418527442 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	seasonvar.ru
+bmoemkaigjgcgjjnpmdgkifndiidkeji_extension_1_0_8_1.crx
+	1.35404986266 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lnffnajambmmkaacbekimiolcijdopad_extension_1_0_19.crx
+	1.35323767642 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.10395589845 	external-rules.comprigo.com
+mhchghbhodjlkbkidohbkcelgdknhpdi_extension_1_3_2.crx
+	1.35147961043 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+lpmachdciikomhdmlchhinndlolcgmlm_extension_1_0_12.crx
+	1.35093912669 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+mapmgefpfgfnefbjepkfepckdchfdkmo_extension_1_0_22.crx
+	1.34999380021 	www.google.com
+	1.19279584373 	www.gstatic.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+ppiaojpbclpegkkkmikabinlpbahhbha_extension_3_1_8_81.crx
+	1.32312981234 	mc.yandex.ru
+	1.00752819544 	sovetnik.market.yandex.ru
+	1.00752819544 	sovetnik.yandex.ru
+	1.000100005 	graph.facebook.com
+	1.0 	connect.mail.ru
+dhelmjcpoddajfaldodimlaehbalhgag_extension_1710_70.crx
+	1.30708569673 	browser.pipe.aria.microsoft.com
+	1.0 	localhost
+	1.0 	chromium-i18n.appspot.com
+	0.999800019999 	api.mixpanel.com
+	0.887364007819 	g.bing.com
+ojijfifnfjaolmmmdgpaikekjddijkgl_extension_1_0_11.crx
+	1.29498614985 	ibm-ams1.rum.dynapis.com
+	1.25182188728 	azr-dub1.rum.dynapis.com
+	1.16777473274 	goo-bru1b.rum.dynapis.com
+	1.16777473274 	aws-dub1.rum.dynapis.com
+	1.16777473274 	aws-fra1.rum.dynapis.com
+edjbamdongkhmagbpppagfjbcojajeae_extension_1_1_5.crx
+	1.26200282168 	googleads.g.doubleclick.net
+	1.000300045 	www.google-analytics.com
+	1.000300045 	chrome.google.com
+	1.0 	getsmartshot.com
+	1.0 	www.google.com
+jbdenakghoccpkjaboikhbinhmopiiio_extension_6_9.crx
+	1.25985923945 	check.fairsharelabs.com
+	1.00380722915 	w6.web.whatsapp.com
+	1.00380722915 	w5.web.whatsapp.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+kmfbpoigddhdibjcilijiejaidggonfc_extension_0_1_2.crx
+	1.25370102911 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+	1.0 	localhost
+kmfnnmioagmcopmmbdfpodhcpnehddbi_extension_0_9_31.crx
+	1.23800349827 	csi.gstatic.com
+	1.12221005009 	www.googletagservices.com
+	1.12164908532 	pixel.quantserve.com
+	1.03873123288 	js-assets.mytaste.org
+	1.03873123288 	assets-cdn.mytaste.org
+jgphnjokjhjlcnnajmfjlacjnjkhleah_extension_5_6_24.crx
+	1.21823123575 	www.gwdang.com
+	1.21823123575 	blog.gwdang.com
+	1.000100005 	hm.baidu.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	browser.gwdang.com
+bkkbcggnhapdmkeljlodobbkopceiche_extension_3_9_6_3.crx
+	1.20731634532 	googleads.g.doubleclick.net
+	1.17456750619 	www.googleadservices.com
+	1.000100005 	www.google.com
+	1.000100005 	ssl.gstatic.com
+	1.000100005 	fonts.gstatic.com
+ecaieeiecbdhkcgknidmfelflleobbnp_extension_0_0_8392.crx
+	1.18234529018 	maps.googleapis.com
+	1.13905617178 	www.googleadservices.com
+	1.12524411137 	googleads.g.doubleclick.net
+	1.00020002 	api.mixpanel.com
+	1.000100005 	www.google.com
+mdnleldcmiljblolnjhpnblkcekpdkpa_extension_4_2_10.crx
+	1.17880356955 	www.google-analytics.com
+	1.11493934017 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.496783977645 	pixel-store-87ff7.firebaseio.com
+jgggjnhpjhojcjgbmpipplmehdglhbof_extension_0_1_4_8.crx
+	1.17656596916 	7.freeaddon.com
+	1.17656596916 	4.freeaddon.com
+	1.17656596916 	2.freeaddon.com
+	1.17656596916 	freeaddon.com
+	1.17656596916 	5.freeaddon.com
+ibpdcnicnlmnknjnjhelkigdpapfjcbn_extension_0_1_4_8.crx
+	1.16229906938 	sportifytab.com
+	1.16229906938 	6.sportifytab.com
+	1.16229906938 	5.sportifytab.com
+	1.16229906938 	9.sportifytab.com
+	1.16229906938 	8.sportifytab.com
+kmillccnmojidmkhhjngjlalnbhpobcl_extension_1_3_5.crx
+	1.16183424273 	purplestats.com
+	1.00150112556 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.865022293111 	apis.google.com
+enaamgjepainkdajgmnhbjeafocplknl_extension_3_8_1.crx
+	1.16183424273 	fonts.googleapis.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dijhcpbkalfgkcebgoncjmfpbamihgaf_extension_1_8_7.crx
+	1.15928101697 	api.mixpanel.com
+	1.15084907956 	www.google-analytics.com
+	1.15084907956 	chrome.google.com
+	1.13065826668 	stats.g.doubleclick.net
+	1.11572007094 	ssl.google-analytics.com
+gjplonfbhkbkoiphjgafcpenodglphdj_extension_1_3_5.crx
+	1.15719618805 	api.mywot.com
+	1.0041084165 	dgx1sum9mog2y.cloudfront.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.906467592105 	www.extension-apps.xyz
+cffgjgigjfgjkfdopbobbdadaelbhepo_extension_3_6_0.crx
+	1.14866454228 	media.twiliocdn.com
+	1.0 	sdr.salesloft.com
+	1.0 	app.salesloft.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pppfmbnpgflleackdcojndfgpiboghga_extension_7_3_3_5.crx
+	1.132015871 	yt3.ggpht.com
+	1.12749685158 	s0.2mdn.net
+	1.12749685158 	ad.doubleclick.net
+	1.05095576235 	jasonsavard.com
+	1.000100005 	omahaproxy.appspot.com
+padggbdbdajccldbomkblppcimdckdfj_extension_4_0_3_1.crx
+	1.12064005528 	images.nba.net
+	1.12064005528 	data.nba.com
+	1.07347387311 	dpm.demdex.net
+	1.03707059177 	js.hscollectedforms.net
+	1.03707059177 	js.hs-scripts.com
+pblpgldoahkhjgiccmmiipebgjgkbjfi_extension_0_1_4_8.crx
+	1.11661300412 	3.freeaddon.com
+	1.11661300412 	4.freeaddon.com
+	1.11661300412 	freeaddon.com
+	1.11661300412 	6.freeaddon.com
+	1.10119945569 	pagead2.googlesyndication.com
+omghfjlpggmjjaagoclmmobgdodcjboh_extension_3_9_0.crx
+	1.11493934017 	ssl.google-analytics.com
+	1.10782651372 	drah7iczdw1tu.cloudfront.net
+	1.09987880889 	browsec.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ifgehbglgmidafhhdcopacejknmcmhcd_extension_10_0_5.crx
+	1.10528144069 	www.clarospeakweb.com
+	1.07853107543 	ocsp.digicert.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dkcghjbajbklonaihkaiohccklbcakac_extension_8_3.crx
+	1.10395589845 	rules.foxydeal.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	external-rules.foxydeal.com
+	1.0 	localhost
+hoclpllcmapbondeongdedkpikabkmlp_extension_0_1_34.crx
+	1.10108934125 	www.google.com
+	1.03841966025 	freestikers.top
+	1.00020002 	www.google-analytics.com
+	1.00020002 	apis.google.com
+	1.00020002 	stats.g.doubleclick.net
+eobkhgkgoejnjaiofdmphhkemmomfabg_extension_3_2_113.crx
+	1.09406487175 	stats.autocardanywhere.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jjfhnhfjdccllfedemeomoifiaaemedg_extension_1_0.crx
+	1.08926156134 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+mhkbaognlahkdimlfcfhbeihldmjofgg_extension_1_1_8702.crx
+	1.08133890483 	vms.boldchat.com
+	1.08133890483 	ci.boldchat.com
+	1.08133890483 	vmp.boldchat.com
+	1.08133890483 	vmss.boldchat.com
+	1.05506249274 	www.unify.com
+jdnmpoggedgajbelgfgmlogehjkkfilp_extension_0_1_18.crx
+	1.080150086 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+licccgnfdlgmmmgaddmbcepikfadcmpe_extension_3_1_10.crx
+	1.07993407758 	chrome.google.com
+	1.07993407758 	www.google-analytics.com
+	1.0 	speednetwork14.adk2x.com
+	1.0 	creative.speednetwork6.com
+	1.0 	d2nq0f8d9ofdwv.cloudfront.net
+peeibjiaceaafioopngfaneonhcdbmhb_extension_0_2_6.crx
+	1.07907047581 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+	1.0 	localhost
+fnlepmmppadfmighcjafgognnfoohehh_extension_0_0_0_2.crx
+	1.07907047581 	www.google.com
+	1.06641227446 	search.moviecarpet.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+ppgplhcfmaadpnkmnkhgadmaekeldbnh_extension_12_600_11_5140.crx
+	1.06502683923 	hp.myway.com
+	1.06502683923 	akz.imgfarm.com
+	1.06502683923 	ak.ssl.imgfarm.com
+	1.000100005 	anx.tb.ask.com
+	1.0 	ak.imgfarm.com
+aokheaddinafdmjphkjlnachkejgleao_extension_3_5_5.crx
+	1.06066916852 	hm.baidu.com
+	1.0 	queqiao.taokezhushou.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	dl.taokezhushou.com
+	1.0 	localhost
+kpbnombpnpcffllnianjibmpadjolanh_extension_0_8_16_19.crx
+	1.0601389665 	api.bilibili.com
+	1.0601389665 	static-s.bilibili.com
+	1.0601389665 	live.bilibili.com
+	1.0 	telize.guguke.net
+	1.0 	chromium-i18n.appspot.com
+cmllgdnjnkbapbchnebiedipojhmnjej_extension_1_5_0_40.crx
+	1.05844410041 	acs.lavasoft.com
+	1.05844410041 	flow.lavasoft.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lnjheoapfbebjffoigfoepijlanohngp_extension_0_0_1_3.crx
+	1.05590688045 	search.moviecorner.com
+	1.00040008001 	www.google-analytics.com
+	1.00040008001 	www.youtube.com
+	1.00040008001 	apis.google.com
+	1.000300045 	stats.g.doubleclick.net
+icmbdchmgaaihfdlphhcdlecjehdngbk_extension_10_0_1.crx
+	1.03977048365 	livestartpage.com
+	1.00260338293 	maxcdn.bootstrapcdn.com
+	1.00260338293 	ajax.googleapis.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fmlboobidmkelggdainpknloccojpppi_extension_1_7_400.crx
+	1.03841966025 	s2.symcb.com
+	1.0 	sr.symcd.com
+	1.0 	goo.gl
+	1.0 	fonts.googleapis.com
+	1.0 	www.paypalobjects.com
+gfgpkepllngchpmcippidfhmbhlljhoo_extension_2_2_4.crx
+	1.03821199708 	fonts.googleapis.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lhoahihokddepjlegpenefeaahdkojog_extension_2_2_1_10.crx
+	1.0119710867 	steamcommunity-a.akamaihd.net
+	1.0 	ocsp.digicert.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	steamcommunity.com
+	1.0 	localhost
+nodbpfnfhjfkgnkddkjmnnljafobgaed_extension_1_0_16_1.crx
+	1.00793128734 	api-ep.secure-cluster.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	p5-ntcwzfmboy4fm-m3u44gu2i5g74bg2-268339-s1-v6exp3-v4.metric.gstatic.com
+	1.0 	enhance-pro.apps-repo.net
+	1.0 	p5-ntcwzfmboy4fm-m3u44gu2i5g74bg2-268339-i1-v6exp3-ds.metric.ipv6test.net
+jlipcaflaocihnmlhnhcfombgmmfglho_extension_3_2017_102_115.crx
+	1.00601803605 	moz.com
+	1.00260338293 	toolbarqueries.google.com
+	1.000100005 	chrome.google.com
+	1.000100005 	apis.google.com
+	1.000100005 	www.google-analytics.com
+plinolblnmmjjcdmnllebajkmdgednlk_extension_2_15_18.crx
+	1.00581685257 	s7.addthis.com
+	1.00581685257 	api-public.addthis.com
+	1.00040008001 	analytics.vmn.net
+	1.000300045 	m.addthisedge.com
+	1.000300045 	m.addthis.com
+oajmcmcpiboagipoflploplebgicaadj_extension_1_1_1_0.crx
+	1.00320512547 	bam.nr-data.net
+	1.00140098046 	c1.iggcdn.com
+	1.00140098046 	g2.iggcdn.com
+	1.00140098046 	g0.iggcdn.com
+	1.00140098046 	g1.iggcdn.com
+pfjelihdmchbidophpbdamjihlndiffd_extension_0_0_0_9.crx
+	1.00270364828 	search.moviecorner.com
+	1.00050012502 	www.youtube.com
+	1.00050012502 	www.google-analytics.com
+	1.000300045 	stats.g.doubleclick.net
+	1.0 	code.jquery.com
+caljgklbbfbcjjanaijlacgncafpegll_extension_0_5_4_809.crx
+	1.00120072029 	passwords.avira.com
+	1.00040008001 	mapper.passwords.avira.com
+	1.00020002 	api.mixpanel.com
+	1.0 	ssl.gstatic.com
+	1.0 	cdn.mxpnl.com
+oalieabcemdpniiagbejoacbmbjbojid_extension_1_3_6.crx
+	1.00040008001 	www.facebook.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	www.smileysapp.com
+	0.786391908103 	static.xx.fbcdn.net
+fidmpnedniahpnkeomejhnepmbdamlhl_extension_7_1_11.crx
+	1.000300045 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+gemcgnkghpnfbmlfimdbdgfepcgenphf_extension_1_157_40.crx
+	1.00020002 	trk.kissmetrics.com
+	1.0 	fast.wistia.com
+	1.0 	js-agent.newrelic.com
+	1.0 	cdn.mxpnl.com
+	1.0 	chromium-i18n.appspot.com
+nkbihfbeogaeaoehlefnkodbefgpgknn_extension_3_4_0.crx
+	1.00020002 	www.youtube.com
+	1.00020002 	i.ytimg.com
+	1.00020002 	www.google-analytics.com
+	1.0 	ajax.googleapis.com
+	1.0 	www.google.com
+pfjibkklgpfcfdlhijfglamdnkjnpdeg_extension_0_2_13.crx
+	1.00020002 	www.google-analytics.com
+	1.0 	facebook.com
+	1.0 	www.googletagmanager.com
+	1.0 	ok.ru
+	1.0 	www.facebook.com
+lanlbpjbalfkflkhegagflkgcfklnbnh_extension_0_0_1_5.crx
+	1.00020002 	www.google-analytics.com
+	1.0 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	webtestlab.appspot.com
+mlholfadgbpidekmhdibonbjhdmpmafd_extension_5_1_4.crx
+	1.00020002 	www.google-analytics.com
+	1.000100005 	stats.g.doubleclick.net
+	1.0 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+okpfiebkkmjcnodegbbbiellepfhoglm_extension_1_2_3.crx
+	1.00020002 	www.google-analytics.com
+	1.00020002 	stats.g.doubleclick.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+oeomioifmeadkjdifcijpkfifjifhhhn_extension_2_3.crx
+	1.00020002 	www.google-analytics.com
+	1.00020002 	stats.g.doubleclick.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+aolcffalbhpnojekmimmelebjchjmmgn_extension_5_0_2.crx
+	1.00020002 	www.google-analytics.com
+	1.000100005 	stats.g.doubleclick.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hjgbehhikdpmpglfjiknhjffnlfnphbo_extension_1_2_2.crx
+	1.000100005 	www.youtube.com
+	1.000100005 	www.google-analytics.com
+	1.0 	4.bp.blogspot.com
+	1.0 	2.bp.blogspot.com
+	1.0 	lh3.googleusercontent.com
+calegbidjlhjchbcefpcnpmpibcgdakc_extension_1_0_38.crx
+	1.000100005 	analytics.vmn.net
+	1.0 	xml.alexa.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+	1.0 	localhost
+fmopikahpohdfccohchaailaejpkbobg_extension_5_7.crx
+	1.000100005 	www.google-analytics.com
+	1.0 	ssl.google-analytics.com
+	1.0 	fonts.googleapis.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	fonts.gstatic.com
+hgomdfbclcjpeecbjckbbojbmmjegpek_extension_4_0_2.crx
+	1.000100005 	vimeo.com
+	1.000100005 	player.vimeo.com
+	1.0 	connect.facebook.net
+	1.0 	maxcdn.bootstrapcdn.com
+	1.0 	fonts.googleapis.com
+nkhjnpgcnmdpeikbeegmibjcfjpamjnp_extension_1_0_14.crx
+	1.000100005 	www.google-analytics.com
+	1.0 	www.facebook.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	c.statcounter.com
+	1.0 	secure.statcounter.com
+ajanondpapegkikdhmmhmoogcaajdokn_extension_2_3_2.crx
+	1.000100005 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+inlikjemeeknofckkjolnjbpehgadgge_extension_1_6_16.crx
+	1.0 	nexus-websocket-b.intercom.io
+	1.0 	nexus-websocket-a.intercom.io
+	1.0 	cdnjs.cloudflare.com
+	1.0 	ajax.googleapis.com
+	1.0 	api-iam.intercom.io
+gnkgjopofhfmjebcalbjlcfilnipmopd_extension_1_1_3.crx
+	1.0 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+	1.0 	localhost
+mlhcehipckghkijlbphhnfifdjpdnnlm_extension_3_0_0.crx
+	1.0 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	pp.userapi.com
+	1.0 	www.google-analytics.com
+	1.0 	vk.com
+ejbjamhkdedinncaeiackcdehpccoejm_extension_1_1_0.crx
+	1.0 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+gaidpiakchgkapdgbnoglpnbccdepnpk_extension_5_6.crx
+	1.0 	maxcdn.bootstrapcdn.com
+	1.0 	www.googletagmanager.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.999900005 	www.google.de
+diankknpkndanachmlckaikddgcehkod_extension_1_1_2.crx
+	1.0 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hehdcdgdfhanbcbdkakahgpfinojokob_extension_1_1_71.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hjmoaenjknbdehbiaeeijcppnljflkff_extension_1_1_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+omkfimmendnmnelbokncdiiegkgnbimj_extension_0_52.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gcihackglhkfinndffhemefinhlmagfe_extension_1_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pjhailogkmnhckpeimcfamkmaccpmmjj_extension_1_3_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gllmkcahdekdbapmdfnffclacbpnicaj_extension_8_6_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	toutapp.com
+kbpkclapffgmndlaifaaalgkaagkfdod_extension_2_0_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.lemonde.fr
+	1.0 	localhost
+ehpabhmfaobjofbklnedfageenjifadk_extension_2_1_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kpikjceneognlhbkpnplnemebnjphpch_extension_1_0_1_5.crx
+	1.0 	speednetwork14.adk2x.com
+	1.0 	t.mdn2015x4.com
+	1.0 	creative.speednetwork6.com
+	1.0 	p.adwsys.com
+	1.0 	fonts.googleapis.com
+afphlhklnamnlglgnmnidbcpiigodhaj_extension_0_1_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ip-api.com
+jdianbbpnakhcmfkcckaboohfgnngfcc_extension_3_82.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+phicbbndgmmpogmijjkbmdhpioaieaha_extension_4_6_4_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hpcipbhehomfgjbgnajdhiahhdeeffbg_extension_16_6_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fljnejggdkncoilcbhmdfcdcclldcdop_extension_2_1_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mjpbbodhmcnmknjdnalpgbljklikfnfn_extension_4_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bhgjipcaelkhpbbelimdpibbcmaapebl_extension_2_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+epejdmjgfibjaffbmojllapapjejipkh_extension_2_0_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fdplekadlcjnnjeffgnobeilnchinoko_extension_2_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.facebook.com
+	1.0 	localhost
+nhaplkidfopdhdfkjodanefjhbieffip_extension_2_27.crx
+	1.0 	lb.secureweb24.net
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+olnblpmehglpcallpnbgmikjblmkopia_extension_18_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+aiimboljphncldaakcnapfolgnjonlea_extension_2_0_11.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fjmagjbdkhekfegapmobmfdceainabca_extension_1_2_1.crx
+	1.0 	insights.hotjar.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.997403377073 	vars.hotjar.com
+	0.997403377073 	script.hotjar.com
+dbnookjgoaaelhciadikaadnkgmiamei_extension_7_0_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jnkdcmgmnegofdddphijckfagibepdlb_extension_1_5_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+djadfifncobffjpicnkiegahdiobpaap_extension_1_0_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bpdidlmbcjblaicehaheeejkofpcmcln_extension_0_1_4_8.crx
+	1.0 	localhost
+	1.0 	chromium-i18n.appspot.com
+	0.901405560506 	connect.facebook.net
+	0.89852567299 	s.w.org
+	0.883468183284 	fonts.googleapis.com
+fhepkdmcgkhfnillfmlebdebcjcdagpg_extension_0_4_3.crx
+	1.0 	api.emailhunter.co
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hpfmedbkgaakgagknibnonpkimkibkla_extension_1_23_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hfgbpkkdodfihabamnkhoaeamkdhnoec_extension_2_0_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gpgbmonepdpnacijbbdijfbecmgoojma_extension_0_13.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mhoeffeimbfbmpccjcodjeeglinbpicp_extension_0_8_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lialghmkggocekkpjbnoacohodmckfke_extension_2_2_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bmimlgceipnlnhclgiehpljbanpibbpi_extension_2_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ebpjgnfppnecnnaffbmfocapphedapfp_extension_1_1_21.crx
+	1.0 	www.googletagmanager.com
+	1.0 	ssl.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	fonts.googleapis.com
+	1.0 	muzekbox.com
+pgmjaihnmedpcdkjcgigocogcbffgkbn_extension_1_0_131.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kdbmhfkmnlmbkgbabkdealhhbfhlmmon_extension_1_7_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+egnjhciaieeiiohknchakcodbpgjnchh_extension_4_2_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dagflnpdebeejnminpgebkallhcgeklm_extension_4_9_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.9608855229 	smmbox.com
+fjnodoodcohggdkacpmiidjikhlihcdk_extension_1_9_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dgghaiehdhlblefgajajfdcfliifogoo_extension_1_2_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hckpnalffccocpippngobngbcjmdoppg_extension_4_0_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gdipdemlhefmipmnlbejoccjegankhle_extension_2_30.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+diebikgmpmeppiilkaijjbdgciafajmg_extension_1_0_8.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+eemaaomlfllldamnpoajaedaemnblgal_extension_0_41.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	dolarhoje.com
+	1.0 	localhost
+dkcpdieimmclhahclgiafhndhdbjempm_extension_0_0_1_2.crx
+	1.0 	code.jquery.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.999800019999 	stats.g.doubleclick.net
+	0.999700044996 	www.google-analytics.com
+blipmdconlkpinefehnmjammfjpmpbjk_extension_1_6_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ecanpcehffngcegjmadlcijfolapggal_extension_1_37.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+igakngmlnnjecnppjfafidfnkiniflpj_extension_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.eblogs.net
+	1.0 	localhost
+hcepnndfbljmdlbklfpocopgafanngom_extension_1_512.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dkgjopcolgcafhnicdahjemapkniikeh_extension_2_0_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+njgkimgbjgjknccgefmkpepkpngfjkld_extension_1_0_8.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ihpiinojhnfhpdmmacgmpoonphhimkaj_extension_0_1_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+giahjhmjbiiopleefbmlmjfaafdihidd_extension_1_0_17.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hnbmfljfohghaepamnfokgggaejlmfol_extension_1_86.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jkcacbjiofjgbnaknoojjboeiinempoa_extension_2_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dfogidghaigoomjdeacndafapdijmiid_extension_3_5_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+iahnhfdhidomcpggpaimmmahffihkfnj_extension_0_4_19.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bomfdkbfpdhijjbeoicnfhjbdhncfhig_extension_1_0_322.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	paperpile.com
+	1.0 	localhost
+ncaaipdfhdijmfdfmeoagmogddhkfdec_extension_2_0_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+baocaagndhipibgklemoalmkljaimfdj_extension_2_0_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+blnghmkeojcpnfhaidimfilnphhmojaj_extension_4_1.crx
+	1.0 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	www.gstatic.com
+	1.0 	ssl.gstatic.com
+alhnopeoagjmjfgcbnokcnagkecgdcdh_extension_1_8_1.crx
+	1.0 	rtlog.vidown.cn
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jinjaccalgkegednnccohejagnlnfdag_extension_2_5_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+oabphaconndgibllomdcjbfdghcmenci_extension_1_2_11.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+emjemnfjellkddpigaggachjkfokfaal_extension_1_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.932766852035 	kamijin.sakura.ne.jp
+gjjpophepkbhejnglcmkdnncmaanojkf_extension_4_4_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+cbnoahoehnigijjkgdabcjdidneanbmn_extension_0_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.517730729034 	api.shodan.io
+jlmafbaeoofdegohdhinkhilhclaklkp_extension_4_9_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mjidkpedjlfnanainpdfnedkdlacidla_extension_3_3_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+cjclccgcpfkfemddeefkbepaagjfgbeg_extension_6_0_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lnfhngeohhhgppmneekcgmoionccdklb_extension_1_2_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+eediamimojgbnjfaalcnlonenfdcogop_extension_3_8_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+agnoocojkneiphkobpcfoaenhpjnmifb_extension_2_0_44.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gphhapmejobijbbhgpjhcjognlahblep_extension_8_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+oofgbpoabipfcfjapgnbbjjaenockbdp_extension_2_2_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+amckaikgfcndaokapfcedicfmagoghlg_extension_2_1_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+egghccfofejeoeoddjihebgmigdpjlah_extension_1_2_8.crx
+	1.0 	i.ytimg.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	www.api.pompateam.pl
+hafhilhhmfljhlgkcnpmkephidgbiman_extension_1_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.902578149753 	www.weebly.com
+	0.865022293111 	apis.google.com
+	0.838366435676 	www.gstatic.com
+kmcfomidfpdkfieipokbalgegidffkal_extension_5_4_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hfindddachkihhbompbhoaehhmomnane_extension_1_7.crx
+	1.0 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+	1.0 	protanki.tv
+lmfbagjnfegjafocookgkkjedmmojopj_extension_2_0_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gigejlhmkgfmlahodjfejfnhegfllhoh_extension_0_5_5_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+lnppoapkllmphlngblmeohbgkdagphob_extension_1_7_26.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fombknmjpgiihbadamhdiafgjolhjoap_extension_1_1_61.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ext.searchcafe.co
+	1.0 	localhost
+cmeikikackmjcmgkcgpnangjlnicecml_extension_2_0_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+iccjgbbjckehppnpajnmplcccjcgbdep_extension_3_0_0_20.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.google-analytics.com
+	1.0 	localhost
+	1.0 	api.ichro.me
+	1.0 	stats.ichro.me
+pfkmomjanfdkaffoiamhcdgfbogpggok_extension_5_3_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+nkdalpbojfdilmiboaiedicdbigdabpb_extension_1_8_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dgjhfomjieaadpoljlnidmbgkdffpack_extension_1_1_94.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gcmghdmnkfdbncmnmlkkglmnnhagajbm_extension_0_3_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+obkfjhifkbhimlocpddgamonjihinpak_extension_3_2_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bchhlccjhoedhhegglilngpbnldfcidc_extension_1_2_6_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ocllfmhjhfmogablefmibmjcodggknml_extension_3_0_2_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+egcmejiaapccophafhfalaelbfgojdjf_extension_1_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+npgcnondjocldhldegnakemclmfkngch_extension_0_0_0_28.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+micblkellenpbfapmcpcfhcoeohhnpob_extension_3_3_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dcpbedhdekgkhigjgmlcbmcjoeaebbfm_extension_3_3_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+namcaplenodjnggbfkbopdbfngponici_extension_2_11.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kphdioekpiaekpmlkhpaicehepbkccbf_extension_17_3_3_40.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mflbcmpjneookibbaeopkfcnegknkgog_extension_2_2_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+oippcafmiiflaibboplblpijbjnmgelc_extension_2_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gabdloknkpdefdpkkibplcfnkngbidim_extension_0_71_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kkodiihpgodmdankclfibbiphjkfdenh_extension_1_14_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	api.segment.io
+	1.0 	localhost
+	0.35815121267 	www.parrottalks.com
+aefkmifgmaafnojlojpnekbpbmjiiogg_extension_0_2_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+agdpdlplhmfgonalmdooaojempaoncmp_extension_1_89.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+enibedkmbpadhfofcgjcphipflcbpelf_extension_0_6_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gbagmkohmhcjgbepncmehejaljoclpil_extension_1_0_11.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+eppncnmppghbndacgkideegigaminkfg_extension_2_1_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+akbaajepehijencgipmpkkhjcmkgmelp_extension_4_6_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mbpccgpiidnajgnapidpjmcjakjhkbom_extension_2_2_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.978533751147 	gv.symcb.com
+	0.903210175641 	js-agent.newrelic.com
+	0.888962701426 	www.gstatic.com
+iojnfgifhaljpkmkgocdjfmghhnhalkk_extension_1_4_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fnlbpbkfmajpdjjefcmlflhcnnpdnokm_extension_43_0.crx
+	1.0 	cdn.barisderin.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	barisderin.com
+	1.0 	www.google-analytics.com
+	1.0 	apis.google.com
+kebnkbogolcjifklpmgidaaoogjflajp_extension_2_0_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+iebpjdmgckacbodjpijphcplhebcmeop_extension_3_8.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gamgcdlfhmmigjmbffodgkpglbnejkjm_extension_2_15_20.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jafkphjeboadjffjfcigcdfdilpcacod_extension_1_4_15.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fgeopcldenngppapceagonnenonklpbn_extension_2_0_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+odmkmgmmmlnnljfhagmleeaolhmjiajm_extension_0_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lmibgdonoeihjgknagpeeijlgiigdhbl_extension_1_0_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.944121890386 	c.utlsapi.com
+fddhonoimfhgiopglkiokmofecgdiedb_extension_3_0_6.crx
+	1.0 	fonts.googleapis.com
+	1.0 	apps.ringcentral.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+	1.0 	ps13.pubnub.com
+ekpipjofdicppbepocohdlgenahaneen_extension_1_6_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ejcciljmcobakbcljagiadhbholnahja_extension_2_3_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dbplfflboacgdjahiamphlmdcgjehpag_extension_0_1_0_1.crx
+	1.0 	www.google-analytics.com
+	1.0 	www.youtube.com
+	1.0 	stats.g.doubleclick.net
+	1.0 	code.jquery.com
+	1.0 	chromium-i18n.appspot.com
+kajfghlhfkcocafkcjlajldicbikpgnp_extension_0_1_2_16.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kbdbkplccfaokfnjbpajjepaknfjipno_extension_1_0_37.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dnebklifojaaecmheejjopgjdljebpeo_extension_1_3_25.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bjdhcabjnhhifipbnopnfpfidkafanjf_extension_4_0_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+akhomcacccpndpgckgpkmcijkimphhmk_extension_1_0_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+iniabgbbmccaomaocmhcfioahgipigbh_extension_2_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+fppgcbpmlfplbgmpcdlhjjniojgblded_extension_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jplnlifepflhkbkgonidnobkakhmpnmh_extension_1_2_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	www.privateinternetaccess.com
+ofnmflhedfocnfnoafgcojkllnmdipoj_extension_5_0_8.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gidlfommnbibbmegmgajdbikelkdcmcl_extension_2_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+djalaeippddcgflofefafkgijpefkjef_extension_1_1_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pmedcepkcjldmmkmfkeniapbaedjlfic_extension_1_1_25.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hknjhjdeboiedcilijpcjhaiacpflkdf_extension_1_1_8.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	payad.me
+immhpnclomdloikkpcefncmfgjbkojmh_extension_3_0_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.896909781518 	ssl.google-analytics.com
+fjnbnpbmkenffdnngjfgmeleoegfcffe_extension_1_7_6.crx
+	1.0 	localhost
+	1.0 	chromium-i18n.appspot.com
+	0.904385112413 	platform.twitter.com
+	0.903933032886 	js-agent.newrelic.com
+	0.89637179706 	www.facebook.com
+iaidohholfjjhodbgoahlkdbikokepdl_extension_0_4_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+	1.0 	localhost
+	1.0 	www.google.com
+idpclaojcopihmplcfnmgfkllldpajen_extension_0_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bhmpnibiagopmobamhlgaghkojlcjnfn_extension_2_15_20.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kmminjooemmhhbpkbfmjhknffplmjkfi_extension_1_4_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hihlaoogegdjakmdbpbilijdghoggkim_extension_6_22.crx
+	1.0 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.google-analytics.com
+	1.0 	localhost
+	1.0 	www.gstatic.com
+lfpacabphcagfehdgnigmfnbjdampbaa_extension_1_0_19.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	api.facebookadblock.com
+	1.0 	localhost
+elnpfaoipdfdhikjacbpcfhpnehjjaii_extension_3_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	api.sardoche.tv
+	1.0 	localhost
+ohnjgmpcibpbafdlkimncjhflgedgpam_extension_1_13_8_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+okldhmfekdlpdiihcmlebacocoflmlfm_extension_7_61.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+eeedcpdcehnikgkhbobmkjcipjhlbmpn_extension_5_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pkgccpejnmalmdinmhkkfafefagiiiad_extension_9_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+iooaeaogjngpihndkcednkblomlkaaif_extension_0_5_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+nkinapjekllgfipphkgpmombekfclghe_extension_3_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hilkjcfodmbdgpadbpehimibheopoccb_extension_2_0_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.896282164362 	ssl.google-analytics.com
+eknhddnoflchkcccjgdddmnimjggiona_extension_3_1_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+flliilndjeohchalpbbcdekjklbdgfkk_extension_2_2_0_1405.crx
+	1.0 	dispatch.avira-update.com
+	1.0 	icm.avira.com
+	1.0 	download.avira.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	api.mixpanel.com
+bildkbknlmeipncfdphnflomjfmfgpnp_extension_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	service2.block.si
+	1.0 	localhost
+miefikpgahefdbcgoiicnmpbeeomffld_extension_1_9_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ohghlmfmgngpkempkbcdklicjlcbampm_extension_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dgickihfkjolnjjifepinaaaoejmgpbm_extension_0_9_1_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jgbkfdjdcbohgenpccfgldadaofnfknl_extension_0_9_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dijkndlhkhhkmohofhdnjcpbdiiioiba_extension_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	service-opera.block.si
+	1.0 	localhost
+aelmbjhinggcjiphkgkbnpoknjncmapd_extension_3_4_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ocjpgibbldacmpedgjgmcdcikjeopnpb_extension_3_0_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+acmchgleikpgahkchnecefopaimdcgph_extension_1_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.944121890386 	api.rodoxhosting.com
+mibmplgflabdmnnoncnedjfdpidjblnk_extension_1_45.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+oikopohbkicbnneinipgiihiijhephop_extension_0_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	wallpaperseveryday.com
+hibhcpjgdocamgallhmphmmjeahifgof_extension_1_33.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+difjajjajoeppdgbcbbhbdblblmkcbhp_extension_0_0_63.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ibiiaimghkbhffgkkdogldehnidojjga_extension_1_0_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ibokieldaedafeobljabgoccppilebki_extension_3_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mfldbojpjpgjlphijlbgefdjebkhdjom_extension_4_2_4.crx
+	1.0 	scripts.kissmetrics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	i.kissmetrics.com
+	1.0 	localhost
+	0.999800019999 	trk.kissmetrics.com
+khoojcphcmgcplkpckkjpdlloooifgec_extension_1_0_6.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+piiadkppcjhcjnekceedinjidaeliabd_extension_2_1_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gojplegfnpcmoocloablkknghkoimpei_extension_2_1_2_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ighfeibindfojfpcjlpknokalfcknmaa_extension_0_0_0_13.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gfjhimhkjmipphnaminnnnjpnlneeplk_extension_2017_3_7.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.896909781518 	ssl.google-analytics.com
+	0.854704058818 	www.google-analytics.com
+oceoildfbiaeclndnjknjpfaoofeekgl_extension_2_5_0_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+febilkbfcbhebfnokafefeacimjdckgl_extension_0_5_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lcmhancdcdhcgdehmlmabbpopcpcnbme_extension_0_0_113.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.201674553927 	api.trumanapp.com
+bobgnmijljonenlachekpkgikohcghon_extension_1_1_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.891187888504 	translate.google.com
+hegbjcdehgihjohghnmdpebepnoalode_extension_1_0_59.crx
+	1.0 	ad35.ad-srv.net
+	1.0 	banners.webmasterplan.com
+	1.0 	ad.ad-srv.net
+	1.0 	ad3.adserver01.de
+	1.0 	rtzow.com
+bbphaocpnfbkjdhfblkikepabnbpiogi_extension_3_0_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+bckebbpihkkoonigakijdplcakdgfdfg_extension_1_0_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	chromeweather.net
+	1.0 	localhost
+	0.940823239776 	ssl.gstatic.com
+	0.940823239776 	fonts.gstatic.com
+dhkemmehlndncfkilljmpeacciajkfag_extension_1_1_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+dcanahkfmlgbgmnjlcmpmjcmbldniele_extension_2_0_9.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+	1.0 	localhost
+hdgloanjhdcenjgiafkpbehddcnonlic_extension_1_1_14.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pjpambjkhcilibnmeihhfgdkhfelbdkj_extension_1_2_8.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ghkaiibchaggdgpdkmbbgdehaecjhcoc_extension_5_8_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+jldiailifbdkepgpcojllmkbakleicab_extension_0_1_13.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+hehbgjdnbibkndghdlilefececadokpb_extension_1_0_16.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gmoboekiodfcajledjijioecfimliddo_extension_1_1_2.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+pnaiinchjaonopoejhknmgjingcnaloc_extension_1_7_1.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ijmndaodmdjamfepoijpolhjddgfgmme_extension_2_0_209_13.crx
+	1.0 	www.boxcryptor.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+andgibkjiikabclfdkecpmdkfanpdapf_extension_1_4.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+nbebgadabkjobjfjemipbdbikijkolah_extension_1_0_0_58.crx
+	1.0 	cdn.bootcss.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.922285915425 	www.fanqianbb.com
+iigcbafcnfakaokfjaplokfbgmjldpfg_extension_1_8.crx
+	1.0 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.gstatic.com
+	1.0 	stats.g.doubleclick.net
+	1.0 	www.google-analytics.com
+dgmanlpmmkibanfdgjocnabmcaclkmod_extension_1_0_24.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mjdepdfccjgcndkmemponafgioodelna_extension_1_11_102.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+phgddhgfnjjaobkeekohieahfingldac_extension_3_5.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+ehomdgjhgmbidokdgicgmdiedadncbgf_extension_3_0_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+mndpomcndmohjljbimojnnfnennikjmk_extension_1_0_2_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.tqdn.cn
+	1.0 	localhost
+	0.949613708227 	ssl.dianzhentan.com
+iindamppkpjpjkkjbpganlnpkiiibmgj_extension_3_26_0.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	wallpapers.free-hd.online
+	1.0 	localhost
+plclpmphdjmdgmdpfkcmdkmohgpfecip_extension_2_0_11.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+kohpcmlfdjfdggcjmjhhbcbankgmppgc_extension_1_8_3.crx
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+
+------------
+-- BENIGN --
+------------
+pmmbokildidpgafchfmebmhpoeiganhj_extension_2_0_2.crx
+	89.2195334074 	static-opt1.kizi.com
+	89.2195334074 	cdn-opt0.kizi.com
+	89.2195334074 	cdn-opt1.kizi.com
+	6.11839617946 	tpc.googlesyndication.com
+	3.14684385577 	securepubads.g.doubleclick.net
+ponjkmladgjfjgllmhnkhgbgocdigcjm_extension_6_5_5.crx
+	3.24884646665 	pagead2.googlesyndication.com
+	1.94177013932 	fonts.googleapis.com
+	1.56220767949 	tpc.googlesyndication.com
+	1.39333478537 	www.google.com
+	1.39333478537 	ssl.gstatic.com
+jdongfcbejkjibhkbekkjcckophhjcjj_extension_1_0_23.crx
+	2.52363418614 	rules.quantcount.com
+	1.13077133816 	secure.quantserve.com
+	1.10550251909 	trello.com
+	1.0 	www.googletagmanager.com
+	1.0 	trello-avatars.s3.amazonaws.com
+ohdmafokcgelhmifjiapjbnkfcggkgnb_extension_3_2_10.crx
+	2.24117436819 	mc.yandex.ru
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+baohinapilmkigilbbbcccncoljkdpnd_extension_14_6_0.crx
+	1.77766374605 	tpc.googlesyndication.com
+	1.20442226038 	pagead2.googlesyndication.com
+	1.05696331546 	googleads.g.doubleclick.net
+	1.00420883236 	freegeoip.net
+	1.0 	fonts.googleapis.com
+hgiidlnejdlfoacoeleopkljhbckmlko_extension_5_51.crx
+	1.69893230862 	apis.google.com
+	1.69893230862 	p4-h76itn5zpg6b4-r2q5jk33ctvr34w5-if-v6exp3-v4.metric.gstatic.com
+	1.69893230862 	p4-eophj5xbvcnjk-ufdzwcd6anduof4z-913836-s1-v6exp3-v4.metric.gstatic.com
+	1.69893230862 	www.google.com
+	1.69893230862 	p4-h76itn5zpg6b4-r2q5jk33ctvr34w5-364382-s1-v6exp3-v4.metric.gstatic.com
+beapnbfmjmjhhfpaoajfhjbbfnnlfpnc_extension_2_1_9.crx
+	1.68961383023 	www.google.com
+	1.68961383023 	ssl.gstatic.com
+	1.68961383023 	www.google-analytics.com
+	1.30577926436 	www.googleapis.com
+	1.30577926436 	maps.googleapis.com
+ocpljaamllnldhepankaeljmeeeghnid_extension_3_0_4.crx
+	1.57633100825 	www.google.com
+	1.57633100825 	www.gstatic.com
+	1.57633100825 	ssl.gstatic.com
+	1.16917690355 	accounts.youtube.com
+	1.0 	mail.google.com
+opnfbjkeinmnibcpmlpjacekjaldnjmj_extension_41_1_0_3.crx
+	1.49990234102 	www.google.com
+	1.49990234102 	ssl.gstatic.com
+	1.49990234102 	www.google-analytics.com
+	1.11493934017 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+gcalenpjmijncebpfijmoaglllgpjagf_extension_4_3_5410.crx
+	1.43390286101 	www.google.com
+	1.43390286101 	cse.google.com
+	1.43390286101 	p4-bdecujtxnywus-csq7pcby2f33udf4-836331-s1-v6exp3-v4.metric.gstatic.com
+	1.43390286101 	fonts.gstatic.com
+	1.43390286101 	apis.google.com
+iicapmagmhahddefgokbabbgieiogjop_extension_2_2_5.crx
+	1.30317031565 	googleads.g.doubleclick.net
+	1.000300045 	www.google.com
+	1.000300045 	www.google-analytics.com
+	1.000300045 	ssl.gstatic.com
+	1.000300045 	fonts.gstatic.com
+pbcgnkmbeodkmiijjfnliicelkjfcldg_extension_4_18_10.crx
+	1.296541066 	cm.g.doubleclick.net
+	1.23072078276 	bid.g.doubleclick.net
+	1.17515493679 	pixel.rubiconproject.com
+	1.16847560782 	www.googleadservices.com
+	1.15119438608 	staticxx.facebook.com
+ohahllgiabjaoigichmmfljhkcfikeof_extension_2_26.crx
+	1.29641141837 	www.google.com
+	1.29641141837 	ssl.gstatic.com
+	1.29641141837 	www.google.de
+	1.00020002 	www.google-analytics.com
+	1.000100005 	chrome.adtidy.org
+eenflijjbchafephdplkdmeenekabdfb_extension_3_5_4.crx
+	1.28184442785 	www.google.com
+	1.28184442785 	ssl.gstatic.com
+	1.20598902749 	fonts.gstatic.com
+	1.06865409332 	www.google-analytics.com
+	1.00260338293 	fonts.googleapis.com
+cbhfdchmklhpcngcgjmpdbjakdggkkjp_extension_3_4_6.crx
+	1.26617431017 	googleads.g.doubleclick.net
+	1.12806074097 	chromium-i18n.appspot.com
+	1.0 	p4-buuzmjuv3nu4o-puvvru7zlx7u4kxr-585139-i1-v6exp3.v4.metric.gstatic.com
+	1.0 	p4-gfoqxndb4n2zw-2zngx2azenkg6ruu-442490-i1-v6exp3.ds.metric.gstatic.com
+	1.0 	p4-gfoqxndb4n2zw-2zngx2azenkg6ruu-442490-i2-v6exp3.v4.metric.gstatic.com
+fgkeilefmpmbamgcejhjpiecahcbipip_extension_1_4_2.crx
+	1.20093449553 	ssl.gstatic.com
+	1.20093449553 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+	1.0 	localhost
+dbfipcjecamggjfabeaclacjoohfjhhn_extension_1_21_10.crx
+	1.19793590908 	ssl.gstatic.com
+	1.19793590908 	fonts.gstatic.com
+	1.19793590908 	www.google.com
+	1.19793590908 	www.google-analytics.com
+	1.17868569509 	t.insigit.com
+oghkljobbhapacbahlneolfclkniiami_extension_3_0_0_20.crx
+	1.19243805865 	stats.ichro.me
+	1.19243805865 	api.ichro.me
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	1.0 	ssl.google-analytics.com
+cgjnhhjpfcdhbhlcmmjppicjmgfkppok_extension_0_17_3_1.crx
+	1.18910390208 	www.google.com
+	1.18910390208 	ssl.gstatic.com
+	1.18910390208 	www.google-analytics.com
+	1.13031912007 	stats.g.doubleclick.net
+	1.0 	chromium-i18n.appspot.com
+ghgabhipcejejjmhhchfonmamedcbeod_extension_8_9_8_2.crx
+	1.16987862019 	ssl.gstatic.com
+	1.16987862019 	www.google-analytics.com
+	1.16987862019 	www.google.com
+	1.0 	clients2.google.com
+	1.0 	chromium-i18n.appspot.com
+abjcfabbhafbcdfjoecdgepllmpfceif_extension_6_9_3_7.crx
+	1.16987862019 	www.google-analytics.com
+	1.02634094847 	ssl.gstatic.com
+	1.02634094847 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+epanfjkfahimkgomnigadpkobaefekcd_extension_7_3_2317.crx
+	1.13860064042 	js.stripe.com
+	1.06289891419 	ssl.gstatic.com
+	1.06289891419 	www.google.com
+	1.03852350741 	ocsp.digicert.com
+	1.00040008001 	pumpkin.abine.com
+clellnciejhoedgepbdilbkdkaoecgpc_extension_1_1_3.crx
+	1.13791768495 	ecosia.zendesk.com
+	1.0 	www.googletagmanager.com
+	1.0 	www.facebook.com
+	1.0 	d5gyvv73sl4au.cloudfront.net
+	1.0 	www.ecosia.org
+goficmpcgcnombioohjcgdhbaloknabb_extension_7_2_23.crx
+	1.12817355268 	ajax.googleapis.com
+	1.11204426312 	www.gstatic.com
+	1.11204426312 	www.youtube.com
+	1.11204426312 	ssl.gstatic.com
+	1.11204426312 	apis.google.com
+hkhggnncdpfibdhinjiegagmopldibha_extension_21_0_7_1.crx
+	1.11572007094 	www.google.com
+	1.11572007094 	ssl.gstatic.com
+	1.0 	omahaproxy.appspot.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	www.google-analytics.com
+ehhkfhegcenpfoanmgfpfhnmdmflkbgk_extension_1_7_9.crx
+	1.11572007094 	apis.google.com
+	1.000100005 	accounts.google.com
+	1.0 	api-ak.wunderground.com
+	1.0 	geo.homenewtab.com
+	1.0 	chromium-i18n.appspot.com
+inmmhkeajgflmokoaaoadgkhhmibjbpj_extension_1_8_1.crx
+	1.10915670349 	m.addthisedge.com
+	1.10915670349 	m.addthis.com
+	1.00964622781 	s7.addthis.com
+	1.00964622781 	api-public.addthis.com
+	1.00964622781 	www.addthis.com
+miijbmhjndcihicbljlcieiajhemmdeb_extension_3_0_0_4.crx
+	1.09998880227 	easylist-downloads.adblockplus.org
+	1.0 	cdn.adblockcdn.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+lifbcibllhkdhoafpjfnlhfpfgnpldfl_extension_9_0_0_7200.crx
+	1.06641227446 	az659314.vo.msecnd.net
+	1.06641227446 	az705183.vo.msecnd.net
+	1.0 	support.skype.com
+	1.0 	login.live.com
+	1.0 	c.bing.com
+dciflieigdmogpmamcgbigingaodhnil_extension_2_0_15.crx
+	1.06035101549 	d.adroll.com
+	1.00783049925 	cdn.captora.com
+	1.00783049925 	pixel.captora.com
+	1.00783049925 	s.adroll.com
+	1.00752819544 	ssl.gstatic.com
+kbhfoiaobflocffnclkigpkeoagheimn_extension_1_6.crx
+	1.01045426797 	simplesharebuttons.com
+	1.00642052376 	fonts.googleapis.com
+	1.00481153845 	tpc.googlesyndication.com
+	1.00380722915 	ssl.gstatic.com
+	1.00380722915 	plus.google.com
+bpgpffljkgjmijjdmjbdppndoojdgboe_extension_4_2_1.crx
+	1.00200200133 	www.facebook.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+	0.462874185224 	static.xx.fbcdn.net
+	0.462874185224 	external.xx.fbcdn.net
+kjagjnchnnlgiafjjlahaedeagnmhefi_extension_1_9_17_8.crx
+	1.00070024506 	www.google.com
+	1.00070024506 	ssl.gstatic.com
+	1.00070024506 	www.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	ssl.google-analytics.com
+ifooldnmmcmlbdennkpdnlnbgbmfalko_extension_1_2.crx
+	1.000300045 	www.google-analytics.com
+	1.000300045 	www.google.com
+	1.000300045 	ssl.gstatic.com
+	1.000300045 	apis.google.com
+	1.000300045 	fonts.gstatic.com
+oeopbcgkkoapgobdbedcemjljbihmemj_extension_20_0_6.crx
+	1.000300045 	www.google-analytics.com
+	1.0 	omahaproxy.appspot.com
+	1.0 	localhost
+	0.90230741692 	chromium-i18n.appspot.com
+	0.825719625106 	www.google.com
+ibigepanpbilkpapapplaicdkhjemlhb_extension_0_0_11.crx
+	1.00020002 	mc.yandex.ru
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+gppongmhjkpfnbhagpmjfkannfbllamg_extension_2_52.crx
+	1.00020002 	www.google.com
+	1.00020002 	ssl.gstatic.com
+	1.00020002 	www.google-analytics.com
+	1.000100005 	hexagon-analytics.com
+	1.0 	ssl.google-analytics.com
+ndnaehgpjlnokgebbaldlmgkapkpjkkb_extension_2_3_6.crx
+	1.00020002 	dev.visualwebsiteoptimizer.com
+	1.0 	fonts.googleapis.com
+	1.0 	www.facebook.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	d37gvrvc0wt4s1.cloudfront.net
+cnaibnehbbinoohhjafknihmlopdhhip_extension_2_3_7.crx
+	1.00020002 	accounts.youtube.com
+	1.0 	mail.google.com
+	1.0 	www.google.com
+	1.0 	www.gstatic.com
+	1.0 	chromium-i18n.appspot.com
+hhinaapppaileiechjoiifaancjggfjm_extension_1_62_1.crx
+	1.00020002 	ssl.gstatic.com
+	1.00020002 	www.google-analytics.com
+	1.00020002 	www.google.com
+	1.0 	chromium-i18n.appspot.com
+	1.0 	localhost
+
+-------------
+-- UNKNOWN --
+-------------
+cknijndocnnlkpenngcdcpleddlmckkm_extension_2_0_0_0.crx
+	6699878.83588 	track1.aniview.com
+	5083446.32515 	tag-st.contextweb.com
+	5083446.32515 	bid.contextweb.com
+	854.485898683 	aniview.hs.llnwd.net
+	6.40769748696 	fcmatch.youtube.com
+lihaokbhgjddookgjbopkldeoblbjjdk_extension_0_1_4_9.crx
+	3556544.552 	tag-st.contextweb.com
+	3556544.552 	bid.contextweb.com
+	3446604.1503 	track1.aniview.com
+	613.573462341 	aniview.hs.llnwd.net
+	9.34367832819 	s0.2mdn.net
+mhajlnmbkfmnclimfamflbhhnneebpnh_extension_2_1_7.crx
+	95206.1671815 	plus.google.com
+	29673.2130408 	www.google-analytics.com
+	29673.2130408 	apis.google.com
+	29673.2130408 	chrome.google.com
+	22742.7115131 	lh4.googleusercontent.com
+ppilpeehmlhboiknckikefgpdkpnhkgc_extension_3_33.crx
+	40.2254548315 	ad.doubleclick.net
+	40.2254548315 	s0.2mdn.net
+	5.4444677425 	pagead2.googlesyndication.com
+	3.24592382022 	c.betrad.com
+	2.00832290869 	log.dmtry.com
+keemdfihodbfhnbkdncepofdplgpbobc_extension_1_0_3.crx
+	11.9747468117 	is2.mzstatic.com
+	3.05475685421 	connect.facebook.net
+	2.18169042363 	is4.mzstatic.com
+	2.09007510346 	img2-ak.lst.fm
+	1.35404986266 	www.google.com
+aleimllbeneahekjepaomenmleijagff_extension_4_0_3_1.crx
+	8.82863132703 	dt.adsafeprotected.com
+	3.27952960827 	fw.adsafeprotected.com
+	1.36165381308 	sc.iasds01.com
+	1.3069549947 	bs.serving-sys.com
+	1.18910390208 	sb.scorecardresearch.com
+pcfchajmhnaohgaaadcppliodkmjjpng_extension_2_3_5.crx
+	8.20874459435 	2appz.net
+	1.000100005 	cx.atdmt.com
+	1.0 	ssl.gstatic.com
+	1.0 	www.facebook.com
+	1.0 	www.gstatic.com
+ikfbchidonfnclempkcojlpijhmoalhi_extension_1_1.crx
+	7.03783081626 	stags.bluekai.com
+	4.33750804489 	cm.g.doubleclick.net
+	2.15674469661 	cse.google.com
+	1.6756480735 	googleads.g.doubleclick.net
+	1.60448045479 	tags.bluekai.com
+gklfcaofjmilchcphdgbhjeoopdaejje_extension_1_1_95.crx
+	5.48380937015 	themission.co
+	1.0041084165 	themvpbuilders.com
+	1.0 	www.google.com
+	1.0 	ssl.gstatic.com
+	1.0 	www.gstatic.com
+mjcnlodbhfimmmmejbhchjlpdhilegbh_extension_4_0_3_1.crx
+	5.33452582091 	s0.2mdn.net
+	4.35924989444 	ad.doubleclick.net
+	3.95903377784 	apis.google.com
+	1.58423240031 	cdnjs.cloudflare.com
+	1.55815121521 	choices-or.truste.com
+kahmhmlnbgnkcdkedieeokmfgifjgaap_extension_0_1_7.crx
+	4.3684139381 	googleads4.g.doubleclick.net
+	2.53400232647 	pagead2.googlesyndication.com
+	2.02749288955 	www.googletagservices.com
+	1.14648415168 	cdnjs.cloudflare.com
+	1.02449519644 	css.zohostatic.com
+agaecbnjediafcdopcfidcdiponjlmnk_extension_0_1_3.crx
+	3.8140819745 	p4-bxdf5z355a2te-7wyymkz26cch22uf-923565-s1-v6exp3-v4.metric.gstatic.com
+	3.8140819745 	p4-bxdf5z355a2te-7wyymkz26cch22uf-if-v6exp3-v4.metric.gstatic.com
+	3.23976242015 	www.google-analytics.com
+	1.9435185191 	www.gstatic.com
+	1.9435185191 	ssl.gstatic.com
+gjkgdjmmaliimkiiachdghaigdgihiip_extension_0_1_4_8.crx
+	3.59879835693 	s0.2mdn.net
+	3.59879835693 	ad.doubleclick.net
+	2.62478765647 	googleads.g.doubleclick.net
+	1.96855545067 	mpd.mxptint.net
+	1.45019785667 	mpc.mxptint.net
+epniipcfpbjliciholgdeipceecgcfmj_extension_2016_11_1_1.crx
+	3.59304488356 	pagead2.googlesyndication.com
+	2.39647761771 	fcmatch.youtube.com
+	2.39647761771 	fcmatch.google.com
+	2.3802368511 	googleads.g.doubleclick.net
+	1.56002211899 	cm.g.doubleclick.net
+boipnfdllhgbnfbnhmgdhddchgcmijgk_extension_2016_10_31_0.crx
+	3.29662757843 	googleads.g.doubleclick.net
+	1.7504974418 	pagead2.googlesyndication.com
+	1.27443124916 	lh3.googleusercontent.com
+	1.27443124916 	tpc.googlesyndication.com
+	1.1546531548 	stats.g.doubleclick.net
+akhfkpnhebiocdilofmaigoggiopgbbd_extension_0_1_7.crx
+	3.23199631339 	p4-hx5zwwjlhj3t6-curtl2bjpxmhsvz5-881754-s1-v6exp3-v4.metric.gstatic.com
+	3.23199631339 	p4-hx5zwwjlhj3t6-curtl2bjpxmhsvz5-if-v6exp3-v4.metric.gstatic.com
+	1.94526847313 	ssl.gstatic.com
+	1.94526847313 	www.gstatic.com
+	1.68438413757 	tpc.googlesyndication.com
+lbehnehebopbkocicnephcmgacblcino_extension_4_0_3_1.crx
+	3.20143773151 	s.ytimg.com
+	2.78737418405 	dt.adsafeprotected.com
+	1.33002800712 	pixel.adsafeprotected.com
+	1.2717577517 	js.hscollectedforms.net
+	1.26452935302 	www.google-analytics.com
+mkgkcincjmmlkjhnikgmegnaafcepmon_extension_2016_10_28_0.crx
+	3.12333081099 	googleads.g.doubleclick.net
+	1.13178949046 	pagead2.googlesyndication.com
+	1.06492034187 	www.google.com
+	1.0 	stats.g.doubleclick.net
+	1.0 	s.w.org
+ponfpcnoihfmfllpaingbgckeeldkhle_extension_2_0_18.crx
+	2.89822940346 	p4-evbajqenqsfkq-hidu6rgir2pajuoq-798301-s1-v6exp3-v4.metric.gstatic.com
+	2.89822940346 	p4-evbajqenqsfkq-hidu6rgir2pajuoq-if-v6exp3-v4.metric.gstatic.com
+	2.32100434656 	googleads.g.doubleclick.net
+	1.28942966441 	p4-evbajqenqsfkq-hidu6rgir2pajuoq-798301-i2-v6exp3.ds.metric.gstatic.com
+	1.28942966441 	p4-evbajqenqsfkq-hidu6rgir2pajuoq-798301-i1-v6exp3.v4.metric.gstatic.com
+anhiaboijcadomedpbmcaobjkppgkbaj_extension_1_0_0_8.crx
+	2.83346402433 	pagead2.googlesyndication.com
+	2.58260866869 	www.googleadservices.com
+	1.67213290477 	tpc.googlesyndication.com
+	1.13280855952 	www.gstatic.com
+	1.13280855952 	ssl.gstatic.com
+glbahmkkmopnlibcoplgdeljampelhof_extension_0_1_4_8.crx
+	2.81004360214 	googleads.g.doubleclick.net
+	1.38999479148 	pagead2.googlesyndication.com
+	1.00611864289 	tpc.googlesyndication.com
+	1.00611864289 	lh3.googleusercontent.com
+	1.00040008001 	chrome.google.com
+hfhnoleifpbfoljmmbioejaaoddghica_extension_0_1_4_1.crx
+	2.69338832135 	tpc.googlesyndication.com
+	2.69338832135 	lh3.googleusercontent.com
+	1.58280723258 	s0.2mdn.net
+	1.10362476135 	fonts.googleapis.com
+	1.07982608958 	sportifytab.com
+faokohjagmdanpegkhhaeociamieohoj_extension_0_1_4_8.crx
+	2.51004328998 	tpc.googlesyndication.com
+	2.51004328998 	lh3.googleusercontent.com
+	1.48497806336 	fonts.googleapis.com
+	1.17034666524 	chrome.google.com
+	1.17034666524 	apis.google.com
+pmnhcgfcafcnkbengdcanjablaabjplo_extension_0_5.crx
+	2.38452513573 	d.adroll.com
+	1.23936605138 	adserve.atedra.com
+	1.20767859455 	track.customer.io
+	1.19625997224 	pixel.rubiconproject.com
+	1.19017457733 	cm.g.doubleclick.net
+cffjjanjollkkdjfjgkjklokipedmeec_extension_0_1_4_6.crx
+	2.28393538246 	googleads.g.doubleclick.net
+	2.28028400772 	pagead2.googlesyndication.com
+	1.06492034187 	www.google.com
+	1.06300520939 	www.facebook.com
+	1.06236759757 	sportifytab.com
+lkmjmficaoifggpfapbffkggecbleang_extension_1_0_3.crx
+	2.04582268592 	googleads.g.doubleclick.net
+	1.36015681738 	www.google.com
+	1.1004288858 	www.gstatic.com
+	1.1004288858 	ssl.gstatic.com
+	1.07015125682 	apis.google.com
+lhejmjlfgemcmjkmkicnlgefomepcdeh_extension_1_0_3.crx
+	2.02384668492 	s1.2mdn.net
+	2.02384668492 	ad.doubleclick.net
+	1.9119047568 	pagead2.googlesyndication.com
+	1.10660857454 	staticxx.facebook.com
+	1.10660857454 	static.xx.fbcdn.net
+djnhkfljnimcpelfndpcjcgngmefaobl_extension_1_1_1.crx
+	1.96757141897 	apis.google.com
+	1.35459159094 	www.gstatic.com
+	1.1874403214 	www.google.com
+	1.0 	ssl.google-analytics.com
+	1.0 	chromium-i18n.appspot.com
+peiobddfomnijgoblelfdmjblplojcoe_extension_0_4.crx
+	1.83895964244 	p5-5qo7sufgky53u-jpbxl7dkevuluv7l-336706-s1-v6exp3-v4.metric.gstatic.com
+	1.35757497296 	www.gstatic.com
+	1.35757497296 	ssl.gstatic.com
+	1.35012880634 	www.google.com
+	1.15603957027 	apis.google.com
+aaibpdpekdgccfafnmnaddimoacanjme_extension_4_0_3_1.crx
+	1.76755988606 	m.addthisedge.com
+	1.76755988606 	su.addthis.com
+	1.76755988606 	m.addthis.com
+	1.55394988128 	tags.bluekai.com
+	1.24209565816 	match.adsrvr.org
+mofndpedaenadiokgdkoblacnghabpah_extension_1_0_5.crx
+	1.73550771202 	pagead2.googlesyndication.com
+	1.35459159094 	www.google.com
+	1.06993724797 	apis.google.com
+	1.06993724797 	www.google-analytics.com
+	1.06993724797 	chrome.google.com
+lbghbpofdlcecfbpjgmffnkieenjkboi_extension_1_1.crx
+	1.71944231021 	n-cdn-origin.areyouahuman.com
+	1.54619952392 	pagead2.googlesyndication.com
+	1.36138150955 	t.dtscout.com
+	1.27455869866 	dc.services.visualstudio.com
+	1.19303442676 	pm.w55c.net
+dcpmhknccojhpodobimikjfdbcbnigne_extension_1_2.crx
+	1.71738021694 	fonts.gstatic.com
+	1.13326177358 	fonts.googleapis.com
+	1.07648381191 	www.google.com
+	1.000100005 	ssl.gstatic.com
+	1.000100005 	www.gstatic.com
+giffbbabkjcmdhmhnlhcmhckbcdbmdhf_extension_3_8_2_2.crx
+	1.70591223015 	www.google.com
+	1.28891399569 	www.gstatic.com
+	1.28891399569 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+mhgigdgaamkpnagiplcpkoaaffbcpikd_extension_3_0.crx
+	1.67698912831 	i2-audmdvcpmktewmkzifrdjhsywnrfyq.init.cedexis-radar.net
+	1.67698912831 	i2-awcjobuovabxpqyovkcozloeatrkbx.init.cedexis-radar.net
+	1.67698912831 	i2-nkqioxgusmslbjpeaosswfnndelzoq.init.cedexis-radar.net
+	1.15407597253 	www.linkedin.com
+	1.000100005 	stats.g.doubleclick.net
+hicllhbnckkakmbkdnaebiopmfpfhibe_extension_0_1_4_8.crx
+	1.66096706165 	tpc.googlesyndication.com
+	1.66096706165 	lh3.googleusercontent.com
+	1.48586931755 	fonts.googleapis.com
+	1.08090645576 	apis.google.com
+	1.08090645576 	www.google-analytics.com
+mfofmcdbaeajgdeihmcjjohmhepcdcol_extension_0_9_4_9.crx
+	1.65317883313 	help.fanfou.com
+	1.65317883313 	static2.fanfou.com
+	1.65317883313 	m.fanfou.com
+	1.65317883313 	static1.fanfou.com
+	1.65317883313 	fanfou.com
+bapebekcapehfapcilombbgepgedmnmn_extension_1_71_7838.crx
+	1.61575121963 	www.gstatic.com
+	1.35540458977 	www.google.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+dfekdjmdikicceaiokcmmchenpilglhn_extension_0_0_37.crx
+	1.61575121963 	www.gstatic.com
+	1.34972382844 	www.google.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+cgomngjjlbgfmhepbpajmjakdbpojhjc_extension_1_8_1.crx
+	1.61575121963 	www.gstatic.com
+	1.42006124363 	www.google.com
+	1.19279584373 	ssl.gstatic.com
+	1.15603957027 	apis.google.com
+	1.0 	chromium-i18n.appspot.com
+
