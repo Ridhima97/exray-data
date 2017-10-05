@@ -1,7 +1,7 @@
 # Overview
 
 This repository accompanies the paper "Ex-Ray: Detection of History-Leaking Browser Extensions".
-A blog post describing the paper is available here [update link].
+A blog post describing the paper is available [here](http://mweissbacher.com/blog/2017/10/05/ex-ray-finding-browser-extensions-that-spy-on-your-browsing-habits/).
 A brief description of the files is provided below, for details please see the paper.
 
 Generally, extensions are named with their 32 character extension ID and end with their version number.
