@@ -14,6 +14,10 @@ We treat the extension as a controlled environment and the size of history as in
 The observed network traffic is the output variable.
 
 
+## Linear Regression
+
+File `linear_regression.json` - labeled set of 212 samples that were flagged by the linear regression system including false positives.
+
 ## Triage Data
 
 File `triagereport.txt` features a run of our extension triage component.
